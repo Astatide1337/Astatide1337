@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Soham Bhagat - Developer Banner" width="100%" />
+  <img src="./banner.png" alt="Soham Bhagat - Developer Banner" width="100%" />
 </p>
 
 # Soham Bhagat
