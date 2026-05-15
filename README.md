@@ -37,5 +37,5 @@ ai/ml:     PyTorch · TensorFlow · Agents · LLMs
 
 * website: **portfolio.astatide.com**
 * email: **[bhagatsoham14@gmail.com](mailto:bhagatsoham14@gmail.com)**
-* github: **github.com/Githubfgtvf**
+* github: **github.com/Astatide1337**
 
